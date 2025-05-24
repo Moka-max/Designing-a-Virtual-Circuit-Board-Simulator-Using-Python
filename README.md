@@ -27,11 +27,7 @@ Whether you're an engineering student, an educator, or a hobbyist, this tool hel
 
 ---
 
-## 📸 Screenshots
 
-> _Add screenshots or screen recordings of your app here._
-
-![Simulator Screenshot](link-to-your-screenshot)
 
 ---
 
